@@ -1,9 +1,9 @@
 body {
-        display:flex;
-         justify-content:center;
-          align-items:center;
-           height:100vh;
-            background:#fef5be;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+ background:#fef5be;
             }
     .container {
         background:rgba(165, 246, 234, 0.727);
@@ -39,7 +39,7 @@ body {
           color: #016de1;
         }
     button:hover {
-        background:#0056b3;
+        background:#0056b3;}
     }
     #result {
         margin-top:15px;
